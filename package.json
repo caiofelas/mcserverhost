@@ -1,0 +1,15 @@
+{
+  "name": "minecraft-supervisor-bot",
+  "version": "1.0.0",
+  "description": "Bot de monitoramento de chat para Minecraft",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.20.0"
+  },
+  "engines": {
+    "node": ">=18.x"
+  }
+}
