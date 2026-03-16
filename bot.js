@@ -9,7 +9,7 @@ http.createServer((req, res) => {
 }).listen(8080);
 
 const config = {
-    host: 'reservado.mcsh.io', 
+    host: '365478.mcsh.io', 
     port: 25565,
     username: 'SupervisorBot',
     version: '1.21.1' // Certifique-se que esta versão coincide com o servidor
